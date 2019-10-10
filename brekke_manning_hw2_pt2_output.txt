@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------------
+Creating client with default (Relational) database manager...
+Storing the provided data, 'Default Test Data,' using the Relational Manager
+
+Changing the client's storage strategy to NoSQLManager...
+Storing the provided data, 'NoSQL Test Data,'  using the NoSQL Manager
+
+Changing the client's storage strategy to GraphManager...
+Storing the provided data, 'Graph Test Data,' using the Graph Manager
+-------------------------------------------------------------------------------------
